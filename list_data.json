@@ -1,57 +1,59 @@
-[
-    {
-        "Title": "Health Research Assistant",
-        "Organization": "American Institutes for Research",
-        "Dates": "Mar 2022—Sep 2025"
-    },
-    {
-        "Title": "Undergraduate Research Assistant",
-        "Organization": "Spontaneous Communication Laboratory, PI: Dr. Jean E. Fox Tree",
-        "Dates": "Sep 2020—Mar 2022"
-    },
-    {
-        "Title": "Undergraduate Research Assistant",
-        "Organization": "Human Computer Interaction Laboratory, PI: Dr. Steve Whittaker",
-        "Dates": "Apr 2021—Mar 2022"
-    },
-    {
-        "Title": "Undergraduate Research Assistant",
-        "Organization": "Cognitive Modeling Laboratory, PI: Dr. Travis Seymour",
-        "Dates": "Sep 2019—Apr 2020"
-    },
-    {
-        "Title": "Writing Assistant & Writing Tutor",
-        "Organization": "Writing Program, UC Santa Cruz",
-        "Dates": "Sep 2018—Jun 2021"
-    },
-    {
-        "Title": "Small Group Tutor & Modified Supplemental Instructor",
-        "Organization": "Learning Support Services, UC Santa Cruz",
-        "Dates": "Sep 2018—Jun 2021"
-    },
-    {
-        "Title": "Course Student Instructor/Facilitator, CLNI 85: Global Action",
-        "Organization": "College Nine, UC Santa Cruz",
-        "Dates": "Nov 2019—Mar 2020"
-    },
-    {
-        "Title": "President / Vice President / Webmaster",
-        "Organization": "Cognitive Science Student Association, UC Berkeley",
-        "Dates": "Jun 2018—Jun 2021"
-    },
-    {
-        "Title": "Summer Resident Assistant",
-        "Organization": "UC Berkeley",
-        "Dates": "Jun 2019—Aug 2019"
-    },
-    {
-        "Title": "Orientation Leader",
-        "Organization": "UC Berkeley",
-        "Dates": "Jul 2018—Aug 2018"
-    },
-    {
-        "Title": "Disability Resource Center Notetaker",
-        "Organization": "UC Berkeley",
-        "Dates": "Sep 2017—Jun 2021"
-    },
-]
+{ 
+    "jobs":[
+        {
+            "Title": "Health Research Assistant",
+            "Organization": "American Institutes for Research",
+            "Dates": "Mar 2022—Sep 2025"
+        },
+        {
+            "Title": "Undergraduate Research Assistant",
+            "Organization": "Spontaneous Communication Laboratory, PI: Dr. Jean E. Fox Tree",
+            "Dates": "Sep 2020—Mar 2022"
+        },
+        {
+            "Title": "Undergraduate Research Assistant",
+            "Organization": "Human Computer Interaction Laboratory, PI: Dr. Steve Whittaker",
+            "Dates": "Apr 2021—Mar 2022"
+        },
+        {
+            "Title": "Undergraduate Research Assistant",
+            "Organization": "Cognitive Modeling Laboratory, PI: Dr. Travis Seymour",
+            "Dates": "Sep 2019—Apr 2020"
+        },
+        {
+            "Title": "Writing Assistant & Writing Tutor",
+            "Organization": "Writing Program, UC Santa Cruz",
+            "Dates": "Sep 2018—Jun 2021"
+        },
+        {
+            "Title": "Small Group Tutor & Modified Supplemental Instructor",
+            "Organization": "Learning Support Services, UC Santa Cruz",
+            "Dates": "Sep 2018—Jun 2021"
+        },
+        {
+            "Title": "Course Student Instructor/Facilitator, CLNI 85: Global Action",
+            "Organization": "College Nine, UC Santa Cruz",
+            "Dates": "Nov 2019—Mar 2020"
+        },
+        {
+            "Title": "President / Vice President / Webmaster",
+            "Organization": "Cognitive Science Student Association, UC Santa Cruz",
+            "Dates": "Jun 2018—Jun 2021"
+        },
+        {
+            "Title": "Summer Resident Assistant",
+            "Organization": "UC Santa Cruz",
+            "Dates": "Jun 2019—Aug 2019"
+        },
+        {
+            "Title": "Orientation Leader",
+            "Organization": "UC Santa Cruz",
+            "Dates": "Jul 2018—Aug 2018"
+        },
+        {
+            "Title": "Disability Resource Center Notetaker",
+            "Organization": "UC Santa Cruz",
+            "Dates": "Sep 2017—Jun 2021"
+        },
+    ]
+}
