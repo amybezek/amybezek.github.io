@@ -1,0 +1,44 @@
+{
+    "projects": [
+        {
+            "title": "Onboarding Redesign",
+            "subtitle": "Centers for Medicare & Medicaid Services",
+            "description": "A UX research and design project focused on improving users' onboarding experiences",
+            "detailedDescription": "Improving the clarity, efficiency, and confidence for new federal employees entering a complex, high-stakes workflow.",
+            "image": "./onboardingpreview.png",
+            "link": "./onboarding.html"
+        },
+        {
+            "title": "Margin",
+            "subtitle": "CalHacks 12.0 - Code",
+            "description": "A Cursor-integrated tool that explains code as you highlight it",
+            "detailedDescription": "This project is currently in development.",
+            "image": "margin.png",
+            "link": "#"
+        },
+        {
+            "title": "Jolse",
+            "subtitle": "Faceted Search Redesign",
+            "description": "Improving Jolse's limited search feature to provide accurate search results and comprehensive product data.",
+            "detailedDescription": "This project is currently in development.",
+            "image": "jolse.png",
+            "link": "#"
+        },
+        {
+            "title": "Webkinz",
+            "subtitle": "Interaction Audit - UX Improvements for Playability",
+            "description": "Case study evaluating Webkinz's outdated interactions + interfaces.",
+            "detailedDescription": "This project is currently in development.",
+            "image": "webkinz.png",
+            "link": "#"
+        },
+        {
+            "title": "Neopets",
+            "subtitle": "Modernizing a Legacy Virtual World",
+            "description": "Case Study evaluating Neopets flows for clarity and ease of use.",
+            "detailedDescription": "This project is currently in development.",
+            "image": "neopets.png",
+            "link": "#"
+        }
+    ]
+}
