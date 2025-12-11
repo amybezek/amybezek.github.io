@@ -11329,7 +11329,7 @@ p {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #212529;
+  background-color: #051F20 !important;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
@@ -11347,7 +11347,7 @@ p {
   font-size: 1.25rem;
 }
 #mainNav .navbar-brand:hover {
-  color: #ffc800 !important;
+  color: #EDC8FF !important;
 }
 #mainNav .navbar-brand img {
   height: 1.5rem;
@@ -11359,7 +11359,7 @@ p {
   letter-spacing: 0.0625em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #ffc800;
+  color: #EDC8FF;
 }
 
 @media (min-width: 992px) {
@@ -11381,7 +11381,7 @@ p {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #212529;
+    background-color: #051F20 !important;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -11831,7 +11831,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 h1 {
-  color: #6c757d;       /* baby pink header */
+  color: #000000;       /* black header */
   text-align: left;
 }
 
